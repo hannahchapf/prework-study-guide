@@ -20,7 +20,7 @@ If you are not sure where to start learning, you could either:
 To use the randomiser:
 1. Open Chrome DevTools by pressing 'Command+Option+I' on MacOS or 'Control+Shift+I' on Windows
 2. A window will open and choose the 'Console' tab
-![A screenshot of the Chrome DevTools window with the Console tab chosen](assets/images/screenshot.png)
+![A screenshot of the Chrome DevTools window with the Console tab chosen](/assets/images/screenshot.png)
 3. Read the suggested topic and get learning
 
 ## Credits
